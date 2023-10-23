@@ -1,2 +1,2 @@
 # Terraform
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.devopsschool.com/blog/wp-content/uploads/2023/04/terraform-workflow-1-1024x512.jpg)https://www.devopsschool.com/blog/wp-content/uploads/2023/04/terraform-workflow-1-1024x512.jpg](https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png)https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
